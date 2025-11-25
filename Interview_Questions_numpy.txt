@@ -1,0 +1,10 @@
+what is the difference between Deep copy and copy?
+copy just creates the new object with duplicate data and keep references to the original object.
+Deepcopy,creates new object and recursively copies everything,making a independent clone  
+
+what is the .copy operator?
+copy just creates the new object with duplicate data and keep references to the original object.
+
+how assignment operator differes from .copy 
+assignment operator just creates a new reference with the same data
+and .copy() creates new operator with duplicated data with references to the original object
