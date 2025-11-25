@@ -1,0 +1,20 @@
+np.where()
+np.array
+np.arange()
+np.random()
+np.random.rand()
+np.random.randint()
+np.genfromtext() #used for opening the file using numpy
+np.max()
+np.min()
+np.argmax()
+np.argmin()
+np.sqrt()
+np.log()
+np.concetenate()
+np.vstack()
+np.hstack()
+np.sort()
+np.flip()
+np.argsort()
+np.lexsort
